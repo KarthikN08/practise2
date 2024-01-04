@@ -7,4 +7,4 @@ document.addEventListener('DOMContentLoaded', function () {
       backDelay: 1000,
       loop: true
     });
-  });
+  }); 
